@@ -23,7 +23,7 @@ npm run dev
 ```
 
 ## Live Demo
-Add your deployed link here
+react-e-com-task.vercel.app
 
 ## GitHub Repository
 https://github.com/Kumarsenthil123456/React-e-com-task.git
